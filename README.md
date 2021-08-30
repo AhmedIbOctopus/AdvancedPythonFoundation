@@ -30,4 +30,4 @@ Become An Advanced Python Guru in no time!
 
 Let’s get started!
 
-[https://www.udemy.com/course/advanced-foundations-of-python-programming-complete-training/]
+https://www.udemy.com/course/advanced-foundations-of-python-programming-complete-training/
